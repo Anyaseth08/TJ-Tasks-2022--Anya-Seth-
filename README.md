@@ -1,4 +1,5 @@
-# TJ-Tasks-2022--Anya-Seth-![2022-11-14 (1)](https://user-images.githubusercontent.com/118158864/201598178-5e074471-b70e-4e74-866b-2bbdae017fee.png)
+# TJ-Tasks-2022--Anya-Seth-![2022-11-14 (1)]
+![2022-11-14 (1)](https://user-images.githubusercontent.com/118158864/201598532-7d0de9fc-8123-406a-a07c-2a4161566e9e.png)
 ![2022-11-14 (2)](https://user-images.githubusercontent.com/118158864/201598180-937c662d-2a27-4f23-9583-2290b002f1f0.png)
 ![2022-11-14 (3)](https://user-images.githubusercontent.com/118158864/201598190-a0997835-11bd-405a-8aa1-2b9ab0afcc24.png)
 ![2022-11-14 (4)](https://user-images.githubusercontent.com/118158864/201598194-fafadba9-161c-4f63-99f9-7048e8392087.png)
@@ -12,3 +13,4 @@
 ![2022-11-14 (17)](https://user-images.githubusercontent.com/118158864/201598260-9db048ae-baad-4825-874a-e979589d541d.png)
 ![2022-11-14 (18)](https://user-images.githubusercontent.com/118158864/201598268-dc9bafe4-0995-44de-9702-d01a035bacfc.png)
 ![2022-11-14 (19)](https://user-images.githubusercontent.com/118158864/201598277-127f9b3b-84b7-47ca-a6cd-31a06cdfea8f.png)
+
